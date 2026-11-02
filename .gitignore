@@ -1,0 +1,17 @@
+# Fichiers de compilation (Ne pas envoyer sur Git)
+[Bb]in/
+[Oo]bj/
+
+# Fichiers de configuration de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Fichiers de sauvegarde de ton application (comme ton fichier "sauvegarde")
+sauvegarde
+
+# Autoriser les fichiers de solution Visual Studio
+!*.sln
+!*.slnx
